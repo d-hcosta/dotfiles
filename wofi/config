@@ -1,0 +1,9 @@
+allow_images=true
+hide_scroll=true
+no_actions=true
+term=kitty
+mode=drun
+display_generic=true
+image_size=24
+columns=3
+key_expand=Tab

@@ -1,0 +1,4 @@
+[options]
+scaling_mode = crop
+width = 350
+height = 300

@@ -335,7 +335,7 @@ return {
     vim.cmd [[nnoremap \ :Neotree reveal<cr>]]
     vim.keymap.set(
       'n',
-      '<leader>e',
+      '<leader>ne',
       ':Neotree toggle position=left<CR>',
       { noremap = true, silent = true }
     ) -- focus file explorer
